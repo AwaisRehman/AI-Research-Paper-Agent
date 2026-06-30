@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-FF4B4B)
 ![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA%203.3%2070B-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21080396.svg)](https://doi.org/10.5281/zenodo.21080396)
 
 A Retrieval-Augmented Generation (RAG) tool that lets you upload PDF research papers and ask natural-language questions, find research gaps, generate structured summaries, compare papers, and produce citations — all grounded in your own documents and built entirely on free-tier tools.
 
@@ -13,7 +14,7 @@ This project accompanies the paper:
 
 > "Research Paper Agent: A Retrieval-Augmented Generation Tool for Academic Literature Review and Research Gap Discovery"
 
-*(update this line once I've submitted — see the citation section below)*
+This software is archived on Zenodo with a permanent DOI: [10.5281/zenodo.21080396](https://doi.org/10.5281/zenodo.21080396)
 
 ## ✨ Features
 
