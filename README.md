@@ -13,7 +13,7 @@ This project accompanies the paper:
 
 > "Research Paper Agent: A Retrieval-Augmented Generation Tool for Academic Literature Review and Research Gap Discovery"
 
-*(update this line once you've submitted — see the citation section below)*
+*(update this line once I've submitted — see the citation section below)*
 
 ## ✨ Features
 
@@ -56,7 +56,7 @@ This project accompanies the paper:
 ## 📁 Project Structure
 
 ```
-research-agent/
+AI-Research-Paper-Agent/
 ├── app.py            # Streamlit entry point — UI, tabs, session state
 ├── parser.py         # PDF text extraction, cleaning, chunking
 ├── embedder.py       # Sentence-transformer embedding generation
@@ -162,7 +162,7 @@ This project is licensed under the [MIT License](LICENSE) — free to use, modif
 
 **Awais Ur Rehman**
 HIT Master's Student — Software Engineering
-GitHub: https://github.com/AwaisRehman/AI-Research-Paper-Agent.git
+GitHub: GitHub: [@AwaisRehman](https://github.com/AwaisRehman)
 Research focus: agentic software engineering tools
 
 If you use this project in academic work, please cite it — see `CITATION.cff`.
