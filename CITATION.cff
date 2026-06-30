@@ -1,9 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Research Paper Agent: An AI-Powered RAG Tool for Academic Literature Review"
+title: "AI-Research-Paper-Agent: A Retrieval-Augmented Generation Tool for Academic Literature Review"
 authors:
   - family-names: "Ur Rehman"
     given-names: "Awais"
-date-released: 2026-06-01
+date-released: 2026-06-30
+version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/<your-username>/research-agent"
+repository-code: "https://github.com/AwaisRehman/AI-Research-Paper-Agent"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21080396
+    description: "Archived software release on Zenodo"
