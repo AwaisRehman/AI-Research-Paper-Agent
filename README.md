@@ -76,8 +76,8 @@ research-agent/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/research-agent.git
-cd research-agent
+git clone https://github.com/AwaisRehman/AI-Research-Paper-Agent.git
+cd AI-Research-Paper-Agent
 ```
 
 ### 2. Set up a virtual environment
@@ -162,7 +162,7 @@ This project is licensed under the [MIT License](LICENSE) — free to use, modif
 
 **Awais Ur Rehman**
 HIT Master's Student — Software Engineering
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: https://github.com/AwaisRehman/AI-Research-Paper-Agent.git
 Research focus: agentic software engineering tools
 
 If you use this project in academic work, please cite it — see `CITATION.cff`.
