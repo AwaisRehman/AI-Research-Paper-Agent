@@ -1,0 +1,29 @@
+# Environment & secrets — NEVER commit these
+.env
+*.key
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ChromaDB local storage (if using PersistentClient)
+chroma_db/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
